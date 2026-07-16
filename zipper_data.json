@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "wallpaper_zipper": [
+    {
+      "name": "wallpaper_zipper_01",
+      "thumbnail_url": "wallpaper/thumb/wallpaper_zipper_01.jpg",
+      "file_url": "wallpaper/wallpaper_01.json",
+      "vip_level": 0
+    },
+    {
+  "name": "wallpaper_zipper_02",
+      "thumbnail_url": "wallpaper/thumb/wallpaper_zipper_02.jpg",
+      "file_url": "wallpaper/wallpaper_02.json",
+      "vip_level": 0
+    }
+  ],
+  "zipper": [
+    {
+      "name": "zipper_01",
+      "thumbnail_url": "zipper/thumb/zipper_01.jpg",
+      "file_url": "zipper/zipper_01.json",
+	"vip_level": 0
+    },
+    {
+     "name": "zipper_02",
+      "thumbnail_url": "zipper/thumb/zipper_02.jpg",
+      "file_url": "zipper/zipper_02.json",
+	"vip_level": 0
+    }
+  ],
+  "row": [
+    {
+      "name": "row_01",
+  "thumbnail_url": "row/thumb/row_01.jpg",
+      "file_url": "row/row_01.json",
+	"vip_level": 0
+    },
+    {
+      "name": "row_02",
+    "thumbnail_url": "row/thumb/row_02.jpg",
+      "file_url": "row/row_02.json",
+	"vip_level": 0
+    }
+  ]
+}
