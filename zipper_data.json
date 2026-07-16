@@ -8,7 +8,7 @@
       "vip_level": 0
     },
     {
-  "name": "wallpaper_zipper_02",
+      "name": "wallpaper_zipper_02",
       "thumbnail_url": "wallpaper/thumb/2.jpg",
       "file_url": "wallpaper/2.json",
       "vip_level": 0
@@ -17,29 +17,29 @@
   "zipper": [
     {
       "name": "zipper_01",
-      "thumbnail_url": "zipper/thumb/1.jpg",
+      "thumbnail_url": "zipper/thumb/1.png",
       "file_url": "zipper/1.json",
-	"vip_level": 0
+      "vip_level": 0
     },
     {
-     "name": "zipper_02",
-      "thumbnail_url": "zipper/thumb/2.jpg",
+      "name": "zipper_02",
+      "thumbnail_url": "zipper/thumb/2.png",
       "file_url": "zipper/2.json",
-	"vip_level": 0
+      "vip_level": 0
     }
   ],
   "row": [
     {
       "name": "row_01",
-  "thumbnail_url": "row/thumb/1.jpg",
+      "thumbnail_url": "row/thumb/1.png",
       "file_url": "row/1.json",
-	"vip_level": 0
+      "vip_level": 0
     },
     {
       "name": "row_02",
-    "thumbnail_url": "row/thumb/2.jpg",
+      "thumbnail_url": "row/thumb/2.png",
       "file_url": "row/2.json",
-	"vip_level": 0
+      "vip_level": 0
     }
   ]
 }
